@@ -1,0 +1,68 @@
+
+
+header {
+    background: #fff;
+    height: 100px;;
+    
+  }
+
+  header {
+    width: 901px;
+    /* outline: dotted 1px red; */
+    margin: 0 auto;
+  }
+
+  .clearfix {
+    clear: both;
+  }
+
+ .logo {
+    width: 55px;
+    float: left;
+    /* margin-right: 30px; */
+    margin-top: 15px;
+ }
+
+ .logo-title {
+     display: inline-block;
+     width: 200px;
+     margin-left: 10px;
+     margin-top: 20px;
+ }
+
+ header h2 {
+     font-family: 'Marck Script', cursive;
+     font-size: 45px;
+ }
+
+ header p {
+     text-transform: uppercase;
+     font-size: 10px;
+ }
+
+.second-ul {
+    display: inline-block;
+    margin-top: -50px;
+    float: right;
+}
+
+span {
+    margin-left: 10px;
+}
+
+ header li {
+    display: inline-block;
+
+ }
+
+  main {
+    width: 901px;
+    margin: 0 auto;
+  }
+
+  .pattern {
+      background-image: repeating-linear-gradient(45deg, #fff, #ccc 2px, #dbdbdb 2px, #fff 4px);
+      min-height: 10px;
+      margin-top: 20px;
+  }
+
