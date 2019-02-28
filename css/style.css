@@ -66,3 +66,52 @@ span {
       margin-top: 20px;
   }
 
+  main h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    margin: 0 auto;
+    margin-top: 55px;
+  }
+
+  .publish-date {
+    opacity: 0.5;
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+
+  .print {
+    opacity: 0.5;
+    margin: 0 auto;
+    margin-top: -10px;
+    float: right;
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+  
+  .li-text {
+    display: inline-block;
+  }
+
+  .paragraphs {
+    text-indent: 15px;
+  }
+
+  #pizza {
+    margin-top: 30px;
+  }
+
+  .ingrediants img {
+    left: 0px;
+    top: 0px;
+    z-index: 10;
+  }
+
+.ul-first {
+  left: 0px;
+  top: 0px;
+  z-index: 20;
+}
+
+.ul-second {
+  left: 0px;
+  top: 0px;
+  z-index: 20;
+}
