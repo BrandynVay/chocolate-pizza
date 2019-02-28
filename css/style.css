@@ -148,6 +148,7 @@ span {
   .vanessa p {
     display: inline-block;
     overflow: hidden;
+    padding-bottom: 80px; 
   }
 
   button {
@@ -162,4 +163,43 @@ span {
     font-size: 16px;
     float: right;
     margin-top: -20px;
+  }
+
+  footer img {
+    position:relative; 
+    top:0;
+    left:50%;
+    margin-left:-55px;
+  }
+
+  .p-one {
+    opacity: 0.5;
+    left: 50%;
+    margin-left: 735px;
+    padding: 5px;
+  }
+
+  .p-two {
+    opacity: 0.5;
+    left: 50%;
+    margin-left: 745px;
+    padding: 5px;
+  }
+
+  hr {
+    border:none;
+    border: 1px solid #d7d7d7;
+    width: 901px;
+  }
+
+  .hr { 
+    text-align: center;
+  }
+
+  .hr img {
+    position: relative;
+    top: -25px;
+    background:white;
+    padding:0 5px;
+    margin-left: -1690px;
   }
